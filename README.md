@@ -91,4 +91,4 @@ Ensure you have the following installed:
 3. Run the project:
    ```bash
    npm run dev
-4. Open your browser and navigate to http://localhost:5173 to view the project.
+4. Open your browser and navigate to http://localhost:5173.
